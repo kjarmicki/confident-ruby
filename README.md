@@ -9,4 +9,4 @@ Topics to investigate in more depth:
 - Proc
 - class methods (const_get)
 - dollar sign ($stdout)
-- formatting (%1.3f)
+- formatting (%1.3f, %w)

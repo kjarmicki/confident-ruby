@@ -11,7 +11,7 @@ class Employee
     self.hire_date = hire_date
   end
 
-  # precondition is just a glorified setter, it guards the invariants of the object
+  # here precondition is just a glorified setter, it guards the invariants of the object
   def hire_date=(new_hire_date)
     raise TypeError, "Invalid hire date" unless new_hire_date.is_a?(Date)
     @hire_date = new_hire_date
