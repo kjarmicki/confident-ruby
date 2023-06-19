@@ -10,3 +10,4 @@ Topics to investigate in more depth:
 - class methods (const_get)
 - dollar sign ($stdout)
 - formatting (%1.3f, %w)
+- nokogiri module
