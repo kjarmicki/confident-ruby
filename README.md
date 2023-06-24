@@ -11,3 +11,4 @@ Topics to investigate in more depth:
 - dollar sign ($stdout)
 - formatting (%1.3f, %w)
 - nokogiri module
+- method definition with star (def some_method(*))
