@@ -12,3 +12,4 @@ Topics to investigate in more depth:
 - formatting (%1.3f, %w)
 - nokogiri module
 - method definition with star (def some_method(*))
+- & operator for method blocks (def some_method(a, b, &block))
