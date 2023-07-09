@@ -13,3 +13,4 @@ Topics to investigate in more depth:
 - nokogiri module
 - method definition with star (def some_method(*))
 - & operator for method blocks (def some_method(a, b, &block))
+- & operator with symbol as method reference (.map(&:chomp))
